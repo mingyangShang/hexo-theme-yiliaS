@@ -1,0 +1,62 @@
+# Header
+menu:
+  主页: /
+  所有文章: /archives
+  # 随笔: /tags/随笔
+
+# SubNav
+subnav:
+  github: "https://github.com/mingyangShang"
+  zhihu: "https://www.zhihu.com/people/shang-ming-yang-54"
+  # douban: "http://www.douban.com/people/122465800/"
+  #mail: "#"
+  facebook: "https://www.facebook.com/profile.php?id=100010973622690"
+  google: "shangmingyanggo@gmail.com"
+  #twitter: "#"
+  #linkedin: "#"
+
+rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: true
+mathjax: true
+
+# 是否开启动画效果
+animate: true
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+google_analytics: ''
+favicon: /favicon.png
+
+#你的头像url
+avatar: http://7xpoty.com1.z0.glb.clouddn.com/%E5%AF%86%E7%8D%BE.jpg
+#是否开启分享
+share_jia: true
+share_addthis: false
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: true
+#是否开启云标签
+tagcloud: true
+
+#是否开启友情链接
+#不开启——
+friends: false
+#开启——
+# friends:
+#   奥巴马的博客: http://localhost:4000/
+#   卡卡的美丽传说: http://localhost:4000/
+#   本泽马的博客: http://localhost:4000/
+#   吉格斯的博客: http://localhost:4000/
+#   习大大大不同: http://localhost:4000/
+#   托蒂的博客: http://localhost:4000/
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: false
+#开启——
+aboutme: 大连理工大学本科毕业，曾为阿里巴巴天猫无线实习生、腾讯MIG职实习生。熟悉android 开发，爱读书、爱打台球、爱技术，崇尚简洁的美。干自己该干的事，做自己想做的人。
