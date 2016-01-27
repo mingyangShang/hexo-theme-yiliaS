@@ -16,17 +16,17 @@ YiliaS 是基于[yilla](https://github.com/litten/hexo-theme-yilia) 为[hexo](ht
   + 安装
 
     ```
-    $ git clone https://github.com/litten/hexo-theme-yilia.git themes/yilia
+    $ git clone https://github.com/litten/hexo-theme-yilia.git themes/yiliaS
     ```
 
   + 配置
 
-    修改hexo根目录下的 `_config.yml` ： `theme: yilia`
+    修改hexo根目录下的 `_config.yml` ： `theme: yiliaS` //注意这里theme的名字要和前面主题的目录名相同，即yilia
 
   + 更新
 
     ```
-    cd themes/yilia
+    cd themes/yiliaS
     git pull
     ```
  
